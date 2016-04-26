@@ -1,5 +1,5 @@
 "use strict";
-// Transcrypt'ed from Python, 2016-04-22 21:08:19
+// Transcrypt'ed from Python, 2016-04-26 14:26:16
 function hello () {
 	var __all__ = {};
 	var __world__ = __all__;
@@ -1216,5 +1216,3 @@ function hello () {
 	return __all__;
 }
 window ['hello'] = hello ();
-
-//# sourceMappingURL=extra/sourcemap/hello.js.map
